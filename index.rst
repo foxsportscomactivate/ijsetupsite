@@ -1,5 +1,5 @@
 ##################
-Step by Step Guide to Set Up Your Canon Printer Using IJ Setup
+How to Use IJ Setup to Set Up Your Canon Printer Step-by-Step.
 ##################
 
 .. meta::
